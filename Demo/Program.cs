@@ -12,7 +12,7 @@ namespace Demo
             list.Add(2);
 
 
-            list.Reverse
+            list.Reverse();
         }
     }
 }
